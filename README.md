@@ -60,9 +60,9 @@ This repository contains the iterative development of Marq's video editing capab
 
 ## 📞 Contact
 
-**Product Manager:** [Your Name]
-**Design Team:** [Design Lead]
-**Engineering:** [Tech Lead]
+**Product Manager:** Spencer Kotter
+**Design Team:** Hillary Tait
+**Engineering Team:** Designosaur
 
 ---
 
